@@ -1,0 +1,19 @@
+{
+  "name": "webpack3_express_starter",
+  "version": "1.0.0",
+  "description": "Repository for starter app with Express using webpack for bundle file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nontachaiwebdev/Webpack3_Express_Starter.git"
+  },
+  "author": "sutininter@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nontachaiwebdev/Webpack3_Express_Starter/issues"
+  },
+  "homepage": "https://github.com/nontachaiwebdev/Webpack3_Express_Starter#readme"
+}
