@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/nontachaiwebdev/Webpack3_Express_Starter#readme",
   "dependencies": {
+    "babel-loader": "^7.1.1",
     "express": "^4.15.3",
     "webpack": "^3.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1"
   }
 }
