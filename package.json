@@ -4,6 +4,7 @@
   "description": "Repository for starter app with Express using webpack for bundle file",
   "main": "app.js",
   "scripts": {
+    "build": "node ./node_modules/webpack/bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
