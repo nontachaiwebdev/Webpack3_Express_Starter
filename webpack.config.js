@@ -19,5 +19,10 @@ module.exports = {
         }
       }
     ]
+  },
+  resolve: {
+    alias: {
+      'ROUTES': path.resolve(__dirname, 'routes/')
+    }
   }
 }
